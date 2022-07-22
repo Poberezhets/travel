@@ -59,4 +59,47 @@ nav a {
 
 }
 
+.input-button {
+    font-family: 'Red Hat Text', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: #fff;
+}
 
+.secondary-button {
+    font-family: 'Red Hat Text', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: #fff;
+}
+
+.step-descripton {
+    font-family: 'Aleo', serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #0D606F;
+}
+
+.country {
+    font-family: 'Red Hat Text', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 32px;
+}
+
+.story-description {
+    color: #0D606F;
+}
+
+.read-more {
+    text-decoration: none;
+    font-weight: 700;
+    color: #0D606F;
+}
+
+.footer-info {
+    font-family: 'Red Hat Text', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+}
