@@ -1,0 +1,98 @@
+html {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+body {
+    background-color: grey;
+}
+
+h1 {
+    font-family: 'Aleo', serif;
+    font-weight: 700;
+    font-size: 80px;
+    color: #fff;
+}
+
+h2 {
+    font-family: 'Red Hat Text', sans-serif;
+    font-size: 40px;
+    color: #F2785C;
+}
+
+h3 {
+    font-family: 'Aleo', serif;
+    font-weight: 400;
+    font-size: 35px;
+    color: #0D606F;
+}
+
+p {
+    font-family: 'Aleo', serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 20px;
+    color: #fff;
+}
+
+.nav-list {
+    list-style-type: none;
+}
+
+.nav-link {
+    font-family: 'Red Hat Text', sans-serif;
+    text-decoration: none;
+    color: #fff;
+}
+
+.logo-text {
+    font-family: 'Magra', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    font-style: normal;
+    color: #fff;
+}
+
+.primary-button {
+    font-family: 'Red Hat Text', sans-serif;
+    color: #fff;
+}
+
+.input-button {
+    font-family: 'Red Hat Text', sans-serif;
+    font-size: 24px;
+    color: #fff;
+}
+
+.secondary-button {
+    font-family: 'Red Hat Text', sans-serif;
+    font-size: 24px;
+    color: #fff;
+}
+
+.step-descripton {
+    font-family: 'Aleo', serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #0D606F;
+}
+
+.country {
+    font-family: 'Red Hat Text', sans-serif;
+    font-style: normal;
+    font-size: 32px;
+}
+
+.story-description {
+    color: #0D606F;
+}
+
+.read-more-link {
+    font-weight: 700;
+    color: #0D606F;
+}
+
+.footer-info {
+    font-family: 'Red Hat Text', sans-serif;
+    font-style: normal;
+}
