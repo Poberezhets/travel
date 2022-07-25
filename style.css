@@ -1,3 +1,8 @@
+html {
+    font-size: 16px;
+    font-weight: 500;
+}
+
 body {
     background-color: grey;
 }
@@ -11,7 +16,6 @@ h1 {
 
 h2 {
     font-family: 'Red Hat Text', sans-serif;
-    font-weight: 500;
     font-size: 40px;
     color: #F2785C;
 }
@@ -31,15 +35,12 @@ p {
     color: #fff;
 }
 
-nav ul {
-    
+.nav-list {
     list-style-type: none;
 }
 
-nav a {
+.nav-menu {
     font-family: 'Red Hat Text', sans-serif;
-    font-size: 16px;
-    font-weight: 500;
     text-decoration: none;
     color: #fff;
 }
@@ -48,27 +49,23 @@ nav a {
     font-family: 'Magra', sans-serif;
     font-size: 32px;
     font-weight: 700;
+    font-style: normal;
     color: #fff;
 }
 
 .primary-button {
     font-family: 'Red Hat Text', sans-serif;
-    font-weight: 500;
-    font-size: 16px;
     color: #fff;
-
 }
 
 .input-button {
     font-family: 'Red Hat Text', sans-serif;
-    font-weight: 500;
     font-size: 24px;
     color: #fff;
 }
 
 .secondary-button {
     font-family: 'Red Hat Text', sans-serif;
-    font-weight: 500;
     font-size: 24px;
     color: #fff;
 }
@@ -82,7 +79,6 @@ nav a {
 
 .country {
     font-family: 'Red Hat Text', sans-serif;
-    font-weight: 500;
     font-style: normal;
     font-size: 32px;
 }
@@ -98,7 +94,5 @@ nav a {
 
 .footer-info {
     font-family: 'Red Hat Text', sans-serif;
-    font-weight: 500;
     font-style: normal;
-    font-size: 16px;
 }
