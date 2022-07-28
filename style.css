@@ -1,5 +1,5 @@
 /*===========
-Typography
+Base
 ===========*/
 
 * {
@@ -15,6 +15,10 @@ body {
     margin: 0;
     background-color: grey;
 }
+
+/*===========
+Typography
+===========*/
 
 h1 {
     font-family: 'Aleo', serif;
@@ -124,7 +128,7 @@ header {
 .container-nav {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: center ;
 }
 
 .logo-icon {
@@ -151,13 +155,6 @@ header {
 }
 
 .primary-button {
-    margin-top: 25px;
-    margin-bottom: 24px;
     padding: 10px 30px;
-    width: 103px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
     cursor: pointer;
 }
