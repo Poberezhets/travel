@@ -25,6 +25,7 @@ h1 {
     font-weight: 700;
     font-size: 80px;
     color: #fff;
+    margin: 0px;
 }
 
 h2 {
@@ -157,4 +158,48 @@ header {
 .primary-button {
     padding: 10px 30px;
     cursor: pointer;
+}
+
+.bg-wrapper {
+    background-color: #404040;
+    background-image: url(./assets/img/mountains-lake-preview.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 122px 428px 221px 120px;
+}
+
+.input {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 16px;
+    width: 892px;
+    height: 95px;
+}
+
+.search-input {
+    background-color: transparent;
+    border: none;
+    width: 560px;
+    height: 30px;
+}
+
+.search-input::placeholder {
+    padding-left: 41px;
+    color: #F2785C;
+    font-family: 'Aleo', serif;
+    font-weight: 400;
+    font-size: 24px;
+    font-style: italic;
+}
+
+.input-button {
+    padding: 10px 32px;
+    margin-right: 18px;
+}
+
+.preview-subtitle {
+    margin-top: 46px;
+    margin-bottom: 46px;
 }
