@@ -121,7 +121,7 @@ header {
 }
 
 .container {
-    padding: 0px 120px;
+    padding: 0 120px;
     max-width: 1440px;
     margin: 0 auto;
 }
@@ -162,7 +162,7 @@ header {
 
 .bg-wrapper {
     background-color: #404040;
-    background-image: url(./assets/img/mountains\ and\ lake\ preview.jpg);
+    background-image: url(./assets/img/mountains-lake-preview.jpg);
     background-size: cover;
     background-position: center;
     padding: 122px 428px 221px 120px;
