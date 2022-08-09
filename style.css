@@ -237,3 +237,43 @@ header {
     margin-top: 80px;
     margin-bottom: 40px;
 }
+
+.destinations-cards {
+    display: flex;
+    justify-content: center;
+}
+
+.country-card {
+    border-radius: 16px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.banner-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-ellipse {
+    padding: 10px 10px;
+    background: rgba(242, 120, 92, 0.5);
+    border: none;
+    border-radius: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.center-ellipse {
+    background: #F2785C;
+}
+
+.secondary-button {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px auto;
+    padding: 13.5px 31px 13.5px 33.5px;
+}
