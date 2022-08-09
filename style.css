@@ -32,6 +32,7 @@ h2 {
     font-family: 'Red Hat Text', sans-serif;
     font-size: 40px;
     color: #F2785C;
+    text-align: center;
 }
 
 h3 {
@@ -202,4 +203,37 @@ header {
 .preview-subtitle {
     margin-top: 46px;
     margin-bottom: 46px;
+}
+
+.container-steps {
+    display: flex;
+    justify-content: space-between;
+}
+
+.step-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.icon-background {
+    background-color: #F2785C;
+    border-radius: 16px;
+}
+
+.icon-bicyclist {
+    padding: 28px 25px 27px 25px;
+}
+
+.icon-calendar {
+    padding: 24px;
+}
+
+.icon-plane {
+    padding: 28px 20px 27px 20px;
+}
+
+.section-heading {
+    margin-top: 80px;
+    margin-bottom: 40px;
 }
