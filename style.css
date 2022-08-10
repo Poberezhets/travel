@@ -261,8 +261,7 @@ header {
     background: rgba(242, 120, 92, 0.5);
     border: none;
     border-radius: 50px;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin: 24px 10px 40px 10px;
 }
 
 .center-ellipse {
@@ -274,6 +273,34 @@ header {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    margin: 40px auto;
+    margin: 0 auto;
     padding: 13.5px 31px 13.5px 33.5px;
+}
+
+.norway-card {
+    background-color: #404040;
+    background-image: url(./assets/img/norway.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 718px 677px 40px 15px;
+}
+
+.japan-card {
+    background-color: #404040;
+    background-image: url(./assets/img/japan.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 718px 677px 40px 15px;
+}
+
+.usa-card {
+    background-color: #404040;
+    background-image: url(./assets/img/usa.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 718px 677px 40px 15px;
+}
+
+.country {
+    margin: 0;
 }
