@@ -304,3 +304,11 @@ header {
 .country {
     margin: 0;
 }
+
+.section-heading {
+    margin-bottom: 46px;
+}
+
+.btn-arrow {
+    margin-right: 12.5px;
+}
