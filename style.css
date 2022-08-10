@@ -237,3 +237,70 @@ header {
     margin-top: 80px;
     margin-bottom: 40px;
 }
+
+.destinations-cards {
+    display: flex;
+    justify-content: center;
+}
+
+.country-card {
+    background-color: #404040;
+    border-radius: 16px;
+    margin-left: 60px;
+    margin-right: 60px;
+    background-size: cover;
+    background-position: center;
+    padding: 718px 677px 40px 15px;
+}
+
+.banner-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-ellipse {
+    padding: 10px 10px;
+    background: rgba(242, 120, 92, 0.5);
+    border: none;
+    border-radius: 50px;
+    margin: 24px 10px 40px 10px;
+}
+
+.center-ellipse {
+    background: #F2785C;
+}
+
+.secondary-button {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    padding: 13.5px 31px 13.5px 33.5px;
+}
+
+.norway-card {
+    background-image: url(./assets/img/norway.jpg);
+}
+
+.japan-card {
+    background-image: url(./assets/img/japan.jpg);
+}
+
+.usa-card {
+    background-image: url(./assets/img/usa.jpg);
+}
+
+.country {
+    margin: 0;
+}
+
+.section-heading {
+    margin-bottom: 46px;
+}
+
+.icon-arrow {
+    margin-right: 12.5px;
+}
