@@ -304,3 +304,28 @@ header {
 .icon-arrow {
     margin-right: 12.5px;
 }
+
+.story {
+    display: flex;
+    justify-content: space-between;
+}
+
+.story-image {
+    border-radius: 16px;
+    margin-right: 40px;
+    margin-bottom: 30px;
+    filter: drop-shadow(0px 4px 4px #0D606F);
+}
+
+.story-title {
+    margin-top: 0;
+    margin-bottom: 24px;
+}
+
+.story-description {
+    margin-bottom: 0;
+}
+
+.section-heading {
+    margin-bottom: 40px;
+}
