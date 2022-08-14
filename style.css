@@ -241,6 +241,7 @@ header {
 .destinations-cards {
     display: flex;
     justify-content: center;
+    overflow: hidden;
 }
 
 .country-card {
@@ -303,4 +304,42 @@ header {
 
 .icon-arrow {
     margin-right: 12.5px;
+}
+
+.story {
+    display: flex;
+    justify-content: space-between;
+}
+
+.story-image {
+    border-radius: 16px;
+    margin-right: 40px;
+    margin-bottom: 30px;
+    filter: drop-shadow(0px 4px 4px #0D606F);
+}
+
+.story-title {
+    margin-top: 0;
+    margin-bottom: 24px;
+}
+
+.story-description {
+    margin-bottom: 0;
+}
+
+.section-heading {
+    margin-bottom: 40px;
+}
+
+.bg-stories {
+    background-image: url(./assets/img/boat-lake.jpg);
+    background-color: rgba(255, 255, 255, 0.7);
+    background-blend-mode: lighten;
+    background-size: cover;
+    background-position: center;
+}
+
+.stories {
+    padding-top: 40px;
+    padding-bottom: 41px;
 }
