@@ -13,7 +13,6 @@ html {
 
 body {
     margin: 0;
-    background-color: grey;
 }
 
 /*===========
@@ -373,4 +372,10 @@ header {
 .twitter-icon {
     width: 31.84px;
     height: 25.88px;
+}
+
+.bg-footer {
+    background-image: url(./assets/img/boat-lake.jpg);
+    background-size: cover;
+    background-position: center bottom;
 }
