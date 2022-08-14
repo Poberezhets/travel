@@ -343,3 +343,34 @@ header {
     padding-top: 40px;
     padding-bottom: 41px;
 }
+
+.footer-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer-info {
+    margin: 20px auto;
+}
+
+.twitter-icon,
+.youtube-icon {
+    margin-left: 24px;
+}
+
+.instagram-icon {
+    width: 30.85px;
+    height: 30.85px;
+}
+
+.youtube-icon {
+    width: 28.04px;
+    height: 22.44px;
+}
+
+.twitter-icon {
+    width: 31.84px;
+    height: 25.88px;
+}
